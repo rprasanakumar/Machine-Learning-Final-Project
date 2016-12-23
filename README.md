@@ -1,8 +1,8 @@
 # Machine-Learning-Final-Project
-Prasanna Kumar Rajendran
-800938424
+
 Project Proposal
 Problem Statement:
+
 In recent years the amount of image data that is being generated has increased exponentially.
 Applications like Instagram, Facebook Images and Snapchat have millions of users, all
 generating several million images every day. There are around 27,800 images uploaded every
@@ -10,6 +10,7 @@ minute to Instagram, which represents data that can be harnessed.
 In order to better categorize, manage and obtain useful data from these images, we need to be
 able to classify the image data to recognize the objects, people or locations that the image
 contains.
+
 We are attempting to identify the most efficient Machine Learning algorithms that can be used
 for the purpose of classifying image data.
 Our project aims to develop a machine learning system that can be used to recognize images of
